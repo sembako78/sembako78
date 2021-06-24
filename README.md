@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sembako78
 - 👀 I’m interested in web--
 - 🌱 I’m currently learning css TT
-- 💞️ I’m looking to collaborate on ...<small>nope<?small>
+- 💞️ I’m looking to collaborate on ...<small>nope</small>
 - 📫 How to reach me ...
 
 <!---
